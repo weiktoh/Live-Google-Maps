@@ -287,3 +287,34 @@ span.legend-icon {
 .ladder form, .ladder div {
   display: block;
 }
+
+
+
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Style tab links */
+.button {
+  background-color: blue;
+  color: black;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 20%;
+}
+
+
+.button2 {background-color: lightgreen;}
+.button3 {background-color: yellow;}
+.button4 {background-color: orange;}
+.button5 {background-color: red;}
+
